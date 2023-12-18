@@ -1,6 +1,6 @@
 # copy-time
 
-A dead simple webstie that displays the current time in multiple copyable formats.
+A dead simple website that displays the current time in multiple copyable formats.
 
 ## Screenshot
 
@@ -9,5 +9,5 @@ A dead simple webstie that displays the current time in multiple copyable format
 ## Motivation
 
 As a developer, it turns that you need to know the current time more often than you might think. Additionally,
-you tend to need to in a computer-friendly format like an ISO timestamp. I made this site so I can reference it
+you tend to need it in a computer-friendly format like an ISO timestamp. I made this site so I can reference it
 whenever I need quick access to the time.
