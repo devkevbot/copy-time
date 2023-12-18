@@ -8,6 +8,5 @@ A dead simple website that displays the current time in multiple copyable format
 
 ## Motivation
 
-As a developer, it turns out that you need to know the current time more often than you might think. Additionally,
-you tend to need it in a really specific formats. such as an ISO timestamp. I made this site so I can reference it
-whenever I need quick access to the time in a format I need.
+As a developer, I find that I often need to reference the current time and obtain it in a particular format, such as an ISO timestamp.
+With this website, I can look up the current time in the format I need and copy-paste it with ease.
